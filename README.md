@@ -1,1 +1,2 @@
 # tbcellmarkerpred
+Takes ELISA and flow cytometer data, analyzing prevalence of cell markers, viability, chimerism, and efficiency to analyze transplant success simultaneously. Applies classification tree ML technique to predict success or rejection, mortality, and timeline following transplant. 
